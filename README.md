@@ -6,6 +6,7 @@ The codes included are for
   We've also uploaded the code we wrote to familiarise ourselves with Image Processing, trying various functions out on fruits.
 2. GUI for automated detection and classification with a button. The backend is as follows:
 ![GUI backend](https://github.com/soundarya98/Leather-defect-detection/blob/master/GUI_Backend.png)
-3. Integration with the gigE camera for real-time detection and classification
+CompleteGUI.cpp contains the complete working GUI for the program
 
-The report is also included.
+3. Project Report containing the summary of the tools provided and how to use it.
+
