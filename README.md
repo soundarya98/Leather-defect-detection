@@ -6,4 +6,4 @@ The codes included are for
 2. GUI for automated detection and classification with a button
 3. Integration with the gigE camera for real-time detection and classification
 
-The report is also included
+The report is also included.
