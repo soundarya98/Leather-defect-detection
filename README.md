@@ -9,4 +9,4 @@ The codes included are for
 CompleteGUI.cpp contains the complete working GUI for the program
 
 3. Project Report containing the summary of the tools provided and how to use it.
-
+(Leather_Defect_Detection.pdf)
